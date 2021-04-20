@@ -1,4 +1,3 @@
- 
 body{
   font-family: Arial; 
 }
@@ -10,4 +9,9 @@ body{
 .ignorethis {
     text-decoration: none;
     color: inherit;
+}
+.footer{
+  background: #68ad16;
+  margin 0px;
+  padding 7px;
 }
