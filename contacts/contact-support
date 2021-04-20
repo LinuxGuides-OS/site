@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title>LinuxGuidesOS</title>
+  </head>
+  <body>
+    <div class=header>
+      <img src=https://www.linuxguides.de/wp-content/uploads/2021/02/cropped-Logo_V3_OhneHintergrund-1.png height=50>
+    </div><br>
+    <h1>LinuxGuidesOS</h1><br>
+    <h4>Ein Community Projekt der <a href=https://www.linuxguides.de>LinuxGuides</a> Community</h4><br>
+    Links<a href=https://www.youtube.com/watch?v=O9K9Jl4TdWI class="ignorethis">:</a><br>
+    <a href=news.html target="content">LinuxGuidesOS-News</a><br>
+    <a href=https://github.com/LinuxGuides-OS/LinuxGuidesOS>Hier gehts zur LinuxGuidesOS repository</a><br>
+    <a href=https://forum.linuxguides.de>LinuxGuides-Forum</a><br>
+    <a href=coming-soon.html target="content">LinuxGuidesOS-Support</a><br>
+    <a href=https://discord.gg/3ebs9BqvKT target="content">LinuxGuides-Discord</a><br>
+  </body>
+  </footer>
+  <h4>Info:</h4>
+  <h5>LinuxGuidesOS wird aktuell noch NICHT vom offizielen LinuxGuides-Team unterstützt. Wir haben lediglich die Einwilligung Namen, Logos usw. zu verwenden! Bei Problemen bitte an <a href=contacts/contacts.html target="content">eine Kontaktperson</a> wenden!</h5>
+  </footer>
+</html>
