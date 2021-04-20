@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title>LinuxGuidesOS - Kontakt (Bread)</title>
+  </head>
+  <body>
+    <div class=header>
+      <img src=https://www.linuxguides.de/wp-content/uploads/2021/02/cropped-Logo_V3_OhneHintergrund-1.png height=50>
+    </div><br>
+    <h1>LinuxGuidesOS - Kontakt</h1><br>
+    <h4>Bread</h4><br>
+    Kontaktmöglichkeiten:<br>
+    <a href="mailto:coming.soon@example.org">coming.soon@example.org</a><br>
+    <a>Twitter <a href=https://twitter.com/das_bread>@das_bread</a><br>
+    <a>GitHub: <a href=https://github.com/dasprombelbread>DasPrombelBread</a><br>
+    <a>Discord: Bread#6400</a><br>
+  </body>
+  </footer>
+  <h4>Info:</h4>
+  <h5>LinuxGuidesOS wird aktuell noch NICHT vom offizielen LinuxGuides-Team unterstützt. Wir haben lediglich die Einwilligung Namen, Logos usw. zu verwenden! Bei Problemen bitte an <a href=contacts.html target="content">eine Kontaktperson</a> wenden!</h5>
+  </footer>
+</html>
