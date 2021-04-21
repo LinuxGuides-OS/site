@@ -20,6 +20,10 @@ body {
     padding: 10px;
     text-align: center;
     border-radius: inherit;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 footer {
     background: #68ad16;
@@ -43,12 +47,14 @@ footer {
     color: #ddd;
     margin-bottom: 32px;
 }
+
 .content-wrapper a {
     color: #69a;
 }
 .footer a {
     color: #32b;
 }
+
 a {
     text-decoration: none;
 }
