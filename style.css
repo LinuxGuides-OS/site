@@ -8,8 +8,9 @@ body {
 
 .header {
     background: #68ad16;
-    margin 0px;
-    padding 10px;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
 }
 
 .ignorethis {
