@@ -35,11 +35,18 @@ footer {
     flex-direction: column;
     border-radius: 20px;
     box-shadow: 0px 0px 16px #000;
-    background-color: #ffffffaa;
+    background-color: #0c0c0caa;
 }
 .content-wrapper {
     margin: 0px 2.4%;
     padding: 5px;
+    color: #ddd;
+}
+.content-wrapper a {
+    color: #69a;
+}
+.footer a {
+    color: #32b;
 }
 
 .ignorethis {
