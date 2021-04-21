@@ -48,6 +48,9 @@ footer {
 .footer a {
     color: #32b;
 }
+a {
+    text-decoration: none;
+}
 
 .ignorethis {
     text-decoration: none;
