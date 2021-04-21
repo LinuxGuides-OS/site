@@ -1,0 +1,17 @@
+body{
+  font-family: Arial; 
+}
+.header{
+  background: #68ad16;
+  margin 0px;
+  padding 10px;
+}
+.ignorethis {
+    text-decoration: none;
+    color: inherit;
+}
+.footer{
+  background: #68ad16;
+  margin 0px;
+  padding 7px;
+}
