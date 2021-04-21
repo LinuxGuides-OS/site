@@ -30,7 +30,7 @@ footer {
     text-align: center;
 }
 .main-wrapper {
-    margin: 0% 2%;
+    margin: 4% 2%;
     display: flex;
     flex-direction: column;
     border-radius: 20px;
