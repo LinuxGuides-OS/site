@@ -1,17 +1,23 @@
-body{
-  font-family: Arial; 
+* {
+    box-sizing: border-box;
 }
-.header{
-  background: #68ad16;
-  margin 0px;
-  padding 10px;
+body {
+    font-family: sans-serif;
+    margin: 0px;
 }
+
+.header {
+    background: #68ad16;
+    margin 0px;
+    padding 10px;
+}
+
 .ignorethis {
     text-decoration: none;
     color: inherit;
 }
 .footer{
-  background: #68ad16;
-  margin 0px;
-  padding 7px;
+    background: #68ad16;
+    margin 0px;
+    padding 7px;
 }
