@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="/site/style.css">
+    <title>LinuxGuidesOS - jjk1</title>
+    <link rel="icon" href="https://linuxguides-os.github.io/site/favicon.ico">
+  </head>
+  <body>
+    <div class="main-wrapper">
+      <div class="header">
+        <a href="/site/news/news.html">
+          <img src="/site/pictures/icons/news.png" height="50" />
+        </a>
+        <a href="/site/project/releases.html">
+          <img src="/site/pictures/icons/download.png" height="50" />
+        </a>
+        <a href="https://linuxguides-os.github.io/site/">
+          <img src="/site/pictures/icons/linuxguides.png" height="70" style="margin-left: 7; margin-right: 7;"/>
+        </a>
+        <a href="/site/contacts/contacts.html">
+          <img src="/site/pictures/icons/kontakt.png" height="50" />
+        </a>
+        <a href="https://discord.gg/3ebs9BqvKT">
+          <img src="/site/pictures/icons/discord.png" height="50" />
+        </a>
+      </div>
+      <div class="content-wrapper">
+          <h4>jjk1</h4><br>
+          Kontaktmöglichkeiten:<br>
+          <a>Email: jjk1.minetest [at] gmail.com<br>
+           <a>GitHub: <a href=https://github.com/jjk4>jjk4/jjk1</a><br>
+           <a>Discord: jjk1#1275</a><br>
+        </div>
+      <footer>
+    <div class=footer>
+  <h5>LinuxGuidesOS wird aktuell noch NICHT vom offizielen LinuxGuides-Team unterstützt. Wir haben lediglich die Einwilligung Namen, Logos usw. zu verwenden! Bei Problemen bitte an <a href=contacts.html target="content">eine Kontaktperson</a> wenden!</h5>
+<h5><a href=https://linuxguides-os.github.io/site/ target="content">Startseite</a> - <a href=https://linuxguides-os.github.io/site/privacy-policy.html target="content">Datenschutzerklärung</a></h5>
+    </div> 
+  </footer>
+ </div>
+</footer>
+</html>
