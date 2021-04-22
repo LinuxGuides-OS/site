@@ -67,11 +67,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('http://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1_big.webp');
+        background-image: url('https://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1_big.webp');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('http://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1.webp');
+        background-image: url('https://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1.webp');
     }
 }
