@@ -9,7 +9,8 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background-image: url('https://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1-min.png');
+    background: rgb(141,233,233);
+    background: linear-gradient(90deg, rgba(141,233,233,1) 0%, rgba(48,170,75,1) 51%, rgba(0,255,70,1) 100%);
     background-size: cover;
     background-position: center;
 }
@@ -64,3 +65,13 @@ a {
     color: inherit;
 }
 
+@media (min-width: 1200px) {
+    body {
+        background-image: url('http://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1_big.webp');
+    }
+}
+@media (max-width: 1200px) {
+    body {
+        background-image: url('http://cdn.rexum.space/lgos/LinuxGuidesOS_Wallpaper1.webp');
+    }
+}
