@@ -13,7 +13,7 @@ body {
     background: linear-gradient(90deg, rgba(141,233,233,1) 0%, rgba(48,170,75,1) 51%, rgba(0,255,70,1) 100%);
     background-size: cover;
     background-position: center;
-    cursor: url(https://linuxguides-os.de/css/tux.ani);
+    cursor: url("https://linuxguides-os.de/css/tux.ani");
 }
 
 .header {
